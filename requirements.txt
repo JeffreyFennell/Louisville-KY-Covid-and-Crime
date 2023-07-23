@@ -1,0 +1,7 @@
+ipykernel
+ipython
+matplotlib
+numpy
+pandas==1.5.3
+requests
+seaborn
