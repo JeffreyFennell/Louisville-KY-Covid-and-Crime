@@ -24,6 +24,7 @@ What else could have been affected by the pandemic? Could crime rates have chang
 - https://data.louisvilleky.gov/datasets/LOJIC::louisville-metro-ky-crime-data-2020/about
 - https://www.cdc.gov/museum/timeline/covid19.html
 - https://www.cdc.gov/coronavirus/2019-ncov/your-health/end-of-phe.html
+- https://health.google.com/covid-19/open-data/explorer?loc=US_KY_21111
 
 ## Code Louisville Project Requirements
 - Loaded in two separate data files.
