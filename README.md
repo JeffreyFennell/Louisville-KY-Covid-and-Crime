@@ -8,7 +8,7 @@ What else could have been affected by the pandemic? Could crime rates have chang
 
 ## Requirements
 - Run requirements.txt
-- Open, and run, covid_and_crime_2020.ipynb
+- Open covid_and_crime_2020.ipynb
 - Follow along with the notebook.
 
 ## How to Read Project
