@@ -1,7 +1,5 @@
-ipykernel
-ipython
-matplotlib
+pandas
 numpy
-pandas==1.5.3
-requests
+matplotlib
 seaborn
+datetime
