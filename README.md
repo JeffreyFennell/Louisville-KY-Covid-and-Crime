@@ -12,7 +12,7 @@ What else could have been affected by the pandemic? Could crime rates have chang
 - Follow along with the notebook.
 
 ## How to Read Project
-- As you follow through the notebook, you'll see comments and markdown fields explaining what's going on.
+- As you follow through the notebook, you'll see comments and markdown fields explaining what's going on. I created and maintained this project through VS Code using Anaconda to create a virtual environment to install all the required libraries. I've listed the packages that I definitely utilized for this project in the requirements.txt. Just a heads up, but conda installs a lot of additional packages when you use it to create your virtual environment.
 
 ## Questions:
 - How have crime rates trended during the first year of the pandemic?
